@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Aag Bagoola drink photo placeholder</title>
+  <desc id="desc">A simple cream cup with warm amber tea on an espresso background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b1b13"/>
+      <stop offset="1" stop-color="#0b0908"/>
+    </linearGradient>
+    <linearGradient id="tea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8590c"/>
+      <stop offset="1" stop-color="#8c3912"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#e8590c" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#e8590c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="438" rx="272" ry="142" fill="url(#glow)"/>
+  <path d="M291 265h218l-22 182c-3 25-24 43-49 43h-76c-25 0-46-18-49-43z" fill="#f5ebdd"/>
+  <path d="M310 284h180l-12 105H322z" fill="url(#tea)"/>
+  <path d="M509 298h31c37 0 55 27 48 59-7 33-30 51-67 51" fill="none" stroke="#c9a24b" stroke-width="20" stroke-linecap="round"/>
+  <ellipse cx="400" cy="282" rx="91" ry="16" fill="#c9a24b"/>
+  <path d="M352 226c-18-25 17-34 3-60m50 60c-18-25 17-34 3-60m48 60c-18-25 17-34 3-60" fill="none" stroke="#f5ebdd" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M282 475h236" stroke="#c9a24b" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+</svg>
